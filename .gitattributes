@@ -1,1 +1,2 @@
 *.html filter=lfs diff=lfs merge=lfs -text
+*.sb3 filter=lfs diff=lfs merge=lfs -text
